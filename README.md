@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -23,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
