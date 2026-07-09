@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
@@ -54,4 +56,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sudo-Terry/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sudo-Terry/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
