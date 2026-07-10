@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0739-daily-temperatures](https://github.com/sudo-Terry/LeetCode/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sudo-Terry/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sudo-Terry/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sudo-Terry/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/sudo-Terry/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sudo-Terry/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
