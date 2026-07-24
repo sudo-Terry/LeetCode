@@ -24,10 +24,12 @@ public:
 
 private:
     void bfs(vector<vector<int>>& isConnected){
+        int start = q.front();
+
         while(!q.empty()){
             int curr = q.front();
             q.pop();
-            for(int i = 0; i < n; i ++){
+            for(int i = start; i < n; i ++){
                 if(visited[i]) continue;
 
                 if(isConnected[curr][i]){
