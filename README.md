@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sudo-Terry/LeetCode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sudo-Terry/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -148,5 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sudo-Terry/LeetCode/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
