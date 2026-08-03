@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sudo-Terry/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sudo-Terry/LeetCode/tree/master/0200-number-of-islands) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sudo-Terry/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -166,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sudo-Terry/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
