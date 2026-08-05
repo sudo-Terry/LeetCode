@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sudo-Terry/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sudo-Terry/LeetCode/tree/master/0994-rotting-oranges) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sudo-Terry/LeetCode/tree/master/0198-house-robber) |
