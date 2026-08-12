@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/sudo-Terry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/sudo-Terry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudo-Terry/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sudo-Terry/LeetCode/tree/master/0198-house-robber) |
