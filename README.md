@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sudo-Terry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sudo-Terry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
