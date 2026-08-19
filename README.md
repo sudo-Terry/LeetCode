@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sudo-Terry/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sudo-Terry/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sudo-Terry/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sudo-Terry/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
