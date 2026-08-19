@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sudo-Terry/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sudo-Terry/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0704-binary-search](https://github.com/sudo-Terry/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sudo-Terry/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/sudo-Terry/LeetCode/tree/master/0994-rotting-oranges) |
 ## Backtracking
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/sudo-Terry/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search Tree
 |  |
 | ------- |
