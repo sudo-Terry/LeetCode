@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sudo-Terry/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sudo-Terry/LeetCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/sudo-Terry/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sudo-Terry/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search Tree
