@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sudo-Terry/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sudo-Terry/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sudo-Terry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sudo-Terry/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/sudo-Terry/LeetCode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sudo-Terry/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/sudo-Terry/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sudo-Terry/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudo-Terry/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sudo-Terry/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sudo-Terry/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sudo-Terry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sudo-Terry/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sudo-Terry/LeetCode/tree/master/0994-rotting-oranges) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sudo-Terry/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sudo-Terry/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sudo-Terry/LeetCode/tree/master/0139-word-break) |
 ## Trie
 |  |
